@@ -216,3 +216,39 @@ while True:
 
     else:
         print("Invalid choice. Please try again.")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        # student managment..
+# students = {}
+
+
+# def add_student():
+#     student_id = input("Enter Student ID: ")
+
+    
+#     if student_id in students:
+#         print("Student ID already exists.")
+#         return
+
+#     student_name = input("Enter Student Name: "
