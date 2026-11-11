@@ -252,3 +252,19 @@ while True:
 #         return
 
 #     student_name = input("Enter Student Name: "
+
+
+
+
+
+
+
+def add_student():
+    student_id = input("Enter Student ID: ")
+
+    
+    if student_id in students:
+        print("Student ID already exists.")
+        return
+
+    student_name = input("Enter Student Name: ")
